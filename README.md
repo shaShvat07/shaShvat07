@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @shaShvat07
-- 👀 I’m interested in Full stack web Development & Machine learning.
-- 🌱 I’m currently learning Data structures and algorithm in C++ & back-end development.
+# 👋 Hello there :)
+- 🔭 Undergrad at Indian Institute of Technology, Kharagpur
+- 👀 Interested in MERN Full Stack Development and algorithms 
+- ⚡ Generalist Programmer
 
 <!---
 shaShvat07/shaShvat07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
