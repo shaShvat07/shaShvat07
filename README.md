@@ -1,6 +1,6 @@
 # 👋 Hello there :)
 - 🔭 Undergrad at Indian Institute of Technology, Kharagpur
-- 👀 Interested in MERN Full Stack Development and algorithms 
+- 👀 Interested in Full Stack Web Development 
 - ⚡ Generalist Programmer
 
 <!---
