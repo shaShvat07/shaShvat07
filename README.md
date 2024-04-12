@@ -2,6 +2,7 @@
 - 🔭 Undergrad at Indian Institute of Technology, Kharagpur
 - 👀 Interested in Full Stack Web Development 
 - ⚡ Generalist Programmer
+- [LinkedIn](https://www.linkedin.com/)
 
 <!---
 shaShvat07/shaShvat07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
