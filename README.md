@@ -1,12 +1,13 @@
-# 👋 Hello there :)
-- 🔭 Undergrad at Indian Institute of Technology, Kharagpur
-- 👀 Interested in Full Stack Web Development 
-- ⚡ Generalist Programmer
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shashvat-patel-061344227/) [Twitter](https://twitter.com/shaShvat35)
+# 👋 Hello there! I'm Shashvat Patel.
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## About Me
+- 🔭 Currently pursuing my undergraduate studies at the Indian Institute of Technology, Kharagpur.
+- 👀 Passionate about Full Stack Web Development.
+- ⚡ Proficient Generalist Programmer.
 
-<!---
-shaShvat07/shaShvat07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/shashvat-patel-061344227/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&labelColor=black)](https://twitter.com/shaShvat35)
+
+## Technologies I've Worked With
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,nestjs,mongodb,express,react,nodejs,redux,figma,gulp,sass,bootstrap,tailwind,jest,nginx,postman,redis,vite,docker,firebase,aws,azure,vercel,linux,ubuntu)](https://skillicons.dev)
