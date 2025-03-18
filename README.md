@@ -10,4 +10,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&labelColor=black)](https://twitter.com/shaShvat35)
 
 ## Technologies I've Worked With
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,nestjs,mongodb,express,react,nodejs,redux,figma,gulp,sass,bootstrap,tailwind,jest,nginx,postman,redis,vite,docker,firebase,aws,azure,vercel,linux,ubuntu)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,nestjs,supabase,postgres,mongodb,express,react,nodejs,redux,figma,gulp,sass,bootstrap,tailwind,jest,nginx,postman,redis,vite,docker,firebase,aws,git,azure,vercel,linux,ubuntu,anaconda,graphql,matlab,prisma,solidity,pytorch,sklearn,opencv,sentry,cloudflare,figma,unreal)](https://skillicons.dev)
