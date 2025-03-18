@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 Currently pursuing my undergraduate studies at the Indian Institute of Technology, Kharagpur.
-- 👀 Passionate about Full Stack Web Development.
+- 👀 Interested about Full Stack Web Development, Deep learning, Blockchain development.
 - ⚡ Proficient Generalist Programmer.
 
 ## Connect with Me
