@@ -11,4 +11,4 @@
 
 ## Technologies I've Worked With
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,nestjs,supabase,postgres,mongodb,express,react,nodejs,redux,figma,gulp,sass,bootstrap,tailwind,jest,nginx,postman,redis,vite,docker,firebase,aws,git,azure,vercel,linux,ubuntu,anaconda,graphql,matlab,prisma,solidity,pytorch,sklearn,opencv,sentry,cloudflare,figma,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,nestjs,supabase,postgres,mongodb,express,react,nodejs,redux,figma,gulp,sass,bootstrap,tailwind,jest,nginx,postman,redis,vite,docker,heroku,firebase,aws,git,azure,vercel,linux,ubuntu,anaconda,graphql,matlab,prisma,solidity,pytorch,sklearn,opencv,sentry,cloudflare,,unreal)](https://skillicons.dev)
